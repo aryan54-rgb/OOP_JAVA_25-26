@@ -1,4 +1,4 @@
-Herb Identification Game
+#Herb Identification Game
 
 This project is a simple Java Swing application that helps users learn and identify common medicinal herbs. The program displays an herb image and lets the user guess the herb name. It includes hints, scoring, and basic information about each herb.
 
