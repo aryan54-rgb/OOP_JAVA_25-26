@@ -2,7 +2,7 @@
 
 This project is a simple Java Swing application that helps users learn and identify common medicinal herbs. The program displays an herb image and lets the user guess the herb name. It includes hints, scoring, and basic information about each herb.
 
-Features
+<h2>Features</h2>
 
 Displays herb images dynamically based on herb names
 
@@ -16,7 +16,7 @@ Shows herb details when the user is out of chances
 
 Ends with a final score summary
 
-How It Works
+<h2>How It Works</h2>
 
 The game loads a predefined list of herbs. Each herb includes:
 
@@ -46,17 +46,17 @@ Center: Input field and buttons
 
 Bottom: Feedback and score
 
-Requirements
+<h2>Requirements</h2>
 
 Java (JDK 8 or above)
 
 Swing library (included by default in Java SE)
 
 Correct image files stored in the images folder
-
-Team Members
+<h2>Team Members</h2>
 
 Aryan Suryawanshi - 124B1F054
 Sarang Kolekar - 124B1F050
 Soham Kulkarni - 124B1F056
+
 
