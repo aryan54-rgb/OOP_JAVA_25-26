@@ -53,6 +53,7 @@ Java (JDK 8 or above)
 Swing library (included by default in Java SE)
 
 Correct image files stored in the images folder
+
 <h2>Team Members</h2>
 
 Aryan Suryawanshi - 124B1F054
